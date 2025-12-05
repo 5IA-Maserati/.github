@@ -13,7 +13,7 @@ The project includes backend services, a web application, documentation, and Dev
 👉 [Work in progress](https://github.com/5IA-Maserati/Bibliotech)
 
 🔖 **Documentation (Wiki):**  
-👉 [OFfical Wiki](https://github.com/5IA-Maserati/.github/wiki)
+👉 [Offical Wiki](https://github.com/5IA-Maserati/.github/wiki)
 
 ---
 
