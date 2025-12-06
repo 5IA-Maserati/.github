@@ -10,10 +10,10 @@ Bibliotech is our primary project: a digital platform designed to manage, explor
 The project includes backend services, a web application, documentation, and DevOps workflows.
 
 🔗 **Repository:**  
-👉 [Work in progress](https://github.com/5IA-Maserati/Bibliotech)
+👉 [Bibliotech Repository](https://github.com/5IA-Maserati/Bibliotech)
 
 🔖 **Documentation (Wiki):**  
-👉 [Offical Wiki](https://github.com/5IA-Maserati/.github/wiki)
+👉 [Offical Wiki](https://github.com/5IA-Maserati/Bibliotech/wiki)
 
 ---
 
