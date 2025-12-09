@@ -15,6 +15,9 @@ The project includes backend services, a web application, documentation, and Dev
 🔖 **Documentation (Wiki):**  
 👉 [Offical Wiki](https://github.com/5IA-Maserati/Bibliotech/wiki)
 
+📊 **Gantt Chart:**  
+👉 [Bibliotech Gantt Chart](https://github.com/ErBeso7/Bibliotech-GANTT/blob/main/Bibliotech.mermaid)
+
 ---
 
 ## 📄 Documentation Overview
