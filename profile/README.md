@@ -61,3 +61,10 @@ For project-related inquiries, please create an Issue in the relevant repository
 ---
 
 ### ⭐ If you find our work interesting, feel free to follow the organization or star the project!  
+
+
+
+      \    /\
+       )  ( ')
+      (  /  )
+       \(__)|
