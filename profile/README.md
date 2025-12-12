@@ -18,6 +18,9 @@ The project includes backend services, a web application, documentation, and Dev
 📊 **Gantt Chart:**  
 👉 [Bibliotech Gantt Chart](https://github.com/ErBeso7/Bibliotech-GANTT/blob/main/docs/Bibliotech.mermaid)
 
+📊 **Analyst Report**  
+👉 [Bibliotech Analyst Report](https://github.com/5IA-Maserati/Bibliotech-Analysis/blob/main/docs/Analyst%20Report.md)
+
 ---
 
 ## 📄 Documentation Overview
