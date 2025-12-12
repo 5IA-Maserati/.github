@@ -38,7 +38,7 @@ All complaints will be reviewed and investigated, resulting in a response deemed
 
 ## Enforcement Guidelines
 In case of violations, maintainers may take actions including but not limited to:
-1. **Warning** — A private notice regarding the inappropriate behavior  
+1. **The Warning** — A private notice regarding the inappropriate behavior  
 2. **Temporary Suspension** — Restricted participation for a defined period  
 3. **Permanent Ban** — Removal from participation in the project or organization  
 
