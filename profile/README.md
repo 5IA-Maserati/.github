@@ -15,11 +15,13 @@ The project includes backend services, a web application, documentation, and Dev
 🔖 **Documentation (Wiki):**  
 👉 [Offical Wiki](https://github.com/5IA-Maserati/Bibliotech/wiki)
 
-📊 **Analyst Report**  
+📊 **Analyst Report:**  
 👉 [Bibliotech Analyst Report](https://github.com/5IA-Maserati/Bibliotech-Analysis/blob/main/docs/Analyst%20Report.md)
 
-📊 **Gantt Chart:**  
+📈 **Gant Chart Download page:**
+👉 [Download Page](https://github.com/ErBeso7/Bibliotech-GANTT/releases)
 
+📊 **Gantt Chart:**  
 ```mermaid
 
 ---
@@ -70,6 +72,8 @@ gantt
     Final Presentation (5 Days)             :e2, after e1, 5d
 
 ```
+
+
 
 ---
 
