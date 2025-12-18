@@ -3,6 +3,7 @@ name: "🐞 Bug Report"
 about: Report a problem or unexpected behavior
 title: "[BUG] <short description>"
 labels: bug
+type: bug
 assignees: ""
 ---
 
