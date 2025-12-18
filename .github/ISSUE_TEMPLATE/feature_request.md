@@ -3,6 +3,7 @@ name: "✨ Feature Request"
 about: Suggest a new idea or enhancement
 title: "[FEATURE] <short description>"
 labels: enhancement
+type: feature
 assignees: ""
 ---
 
